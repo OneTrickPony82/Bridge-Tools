@@ -1,0 +1,7 @@
+*.pyc
+*.lin
+__pycache__
+*.txt
+*.p
+*.html
+bridgecalc
