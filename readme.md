@@ -14,12 +14,11 @@ vuextractor.py:
 
 -some stuff for auto downloading .lins from vugraph arcvhies page,
 removing comments from them (there is a lot of junk in them) etc.
-unforunately it doesn't automatically work on vugraph arcvhies page
-because I am lazy; you need to remove css at the top of the page and
-empty lines in the middle of the file to make it workable. I have
-sample input for like beginning of 2012 prepared like that and it's
-2nd attachment to this email, just put it in same directory as
-downloader or adjust paths inside the file
+unforunately it doesn't automatically work on vugraph archives page;
+you need to remove css at the top of the page and
+empty lines in the middle of the file to make it workable. 
+Input.7z is .html file readable by vuextractor which contains .lin links
+up to 2012
 
 bridgecalc:
 -double dummy solver written by Piotr Beling; at the time it didn't
